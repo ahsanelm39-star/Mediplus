@@ -33,7 +33,7 @@
 |-----------|--------|
 | Frontend | HTML - CSS - JS |
 | icons | font awesome |
-| Deployment | Netlify |
+| Deployment | Vercel |
 
 ---
 
