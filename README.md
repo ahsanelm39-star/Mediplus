@@ -16,7 +16,7 @@
 
 ## 🌐 Demo
 🔗 **Live Preview:** [View Demo](https://medical-ten-rho.vercel.app/)  
-📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/HTML-CSS-JS-Medical-Website)
+📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/Mediplus)
 
 ---
 
