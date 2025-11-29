@@ -49,6 +49,6 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/HTML-CSS-JS-Medical-Website.git
+git clone https://github.com/ahsanelm39-star/Mediplus.git
 ```
 then install font awesome
